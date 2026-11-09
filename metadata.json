@@ -1,0 +1,6 @@
+{
+  "name": "StayNest - ADSSU Student Boarding House Finder",
+  "description": "Smart boarding house finder connecting ADSSU students to verified, affordable housing in Bunawan with interactive maps, smart filters, and landlord chat.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

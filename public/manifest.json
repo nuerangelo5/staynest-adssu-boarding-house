@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "StayNest - ADSSU Student Boarding",
+  "short_name": "StayNest",
+  "description": "Smart boarding house finder connecting ADSSU students to verified, affordable housing in Bunawan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D3B2E",
+  "theme_color": "#0D3B2E",
+  "categories": ["education", "housing", "lifestyle"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
