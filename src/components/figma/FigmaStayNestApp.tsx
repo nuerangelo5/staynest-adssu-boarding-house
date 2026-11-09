@@ -1973,7 +1973,7 @@ export const FigmaStayNestApp: React.FC = () => {
                         : 'text-emerald-200 hover:text-white hover:bg-white/10'
                     }`}
                   >
-                    Rules & Curfew
+                    Settings & Rules
                   </button>
                   <button
                     onClick={() => setIsLandlordProfileOpen(true)}

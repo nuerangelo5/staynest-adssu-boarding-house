@@ -636,18 +636,18 @@ export const INITIAL_BOOKINGS: BookingRequest[] = [
 
 export const TEAM_MEMBERS = [
   {
-    name: 'Angelo Nuer',
+    name: 'Angelo Laureta Nuer',
     role: 'PROJECT LEAD',
     description: 'Leads StayNest architecture, university partnership with ADSSU, and product vision.',
   },
   {
     name: 'Conrado Candari',
-    role: 'PROGRAMMER',
-    description: 'Full-stack engineering, map integration, real-time messaging, and database schemas.',
+    role: 'PRODUCT & UI/UX DESIGNER',
+    description: 'Interface design, mobile responsiveness, student usability testing, and brand identity.',
   },
   {
     name: 'Jolina Asuncion',
-    role: 'FINANCE & BUSINESS DEV',
+    role: 'FINANCE & BUSINESS DEVELOPMENT',
     description: 'Landlord monetization models, 5% booking commission structures, and subscription plans.',
   },
   {
@@ -657,7 +657,7 @@ export const TEAM_MEMBERS = [
   },
   {
     name: 'Kean Ide',
-    role: 'PRODUCT & UI/UX DESIGNER',
-    description: 'Interface design, mobile responsiveness, student usability testing, and brand identity.',
+    role: 'PROGRAMMER',
+    description: 'Full-stack engineering, map integration, real-time messaging, and database schemas.',
   },
 ];
